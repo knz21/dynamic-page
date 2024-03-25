@@ -20,6 +20,7 @@
         "DotIndicator": "https://github.com/knz21/DotIndicator",
         "dynamic-link-demo": "https://github.com/knz21/dynamic-link-demo",
         "dynamic-page": "https://github.com/knz21/dynamic-page",
+        "embedded-google-form": "https://github.com/knz21/embedded-google-form",
         "export_docbase_memos": "https://github.com/knz21/export_docbase_memos",
         "Figaro": "https://github.com/knz21/Figaro",
         "ftp_uploader": "https://github.com/knz21/ftp_uploader",
@@ -43,7 +44,6 @@
         "redux_todo_on_rails": "https://github.com/knz21/redux_todo_on_rails",
         "slack_info": "https://github.com/knz21/slack_info",
         "slack_message_sample": "https://github.com/knz21/slack_message_sample",
-        "Temperature": "https://github.com/knz21/Temperature",
-        "testrepository": "https://github.com/knz21/testrepository"
+        "Temperature": "https://github.com/knz21/Temperature"
     }
 }
