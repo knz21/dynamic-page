@@ -15,6 +15,7 @@
         }
     ],
     "links": {
+        "calendar_message": "https://github.com/knz21/calendar_message",
         "command-line-parameter": "https://github.com/knz21/command-line-parameter",
         "compose-sideeffects": "https://github.com/knz21/compose-sideeffects",
         "DotIndicator": "https://github.com/knz21/DotIndicator",
@@ -28,6 +29,7 @@
         "GitHubRepositoryList": "https://github.com/knz21/GitHubRepositoryList",
         "github_emoji": "https://github.com/knz21/github_emoji",
         "illust-logic": "https://github.com/knz21/illust-logic",
+        "japanese_holiday": "https://github.com/knz21/japanese_holiday",
         "kaeru": "https://github.com/knz21/kaeru",
         "kotlin-playground": "https://github.com/knz21/kotlin-playground",
         "line_bot_auth": "https://github.com/knz21/line_bot_auth",
@@ -42,8 +44,6 @@
         "RecyclerViewPlayground": "https://github.com/knz21/RecyclerViewPlayground",
         "redux_todo_on_node": "https://github.com/knz21/redux_todo_on_node",
         "redux_todo_on_rails": "https://github.com/knz21/redux_todo_on_rails",
-        "slack_info": "https://github.com/knz21/slack_info",
-        "slack_message_sample": "https://github.com/knz21/slack_message_sample",
-        "Temperature": "https://github.com/knz21/Temperature"
+        "slack_info": "https://github.com/knz21/slack_info"
     }
 }
